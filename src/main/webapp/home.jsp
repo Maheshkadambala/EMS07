@@ -195,11 +195,11 @@ nav a:hover {
               </p>
               <p>
                 <i class="fas fa-envelope text-red-500 mr-2"></i>
-                <a href="manojkadambala2005@gmail.com" class="hover:underline">manojkadambala2005@gmail.com</a>
+               <a href="mailto:manojkadambala2005@gmail.com" class="hover:underline">manojkadambala2005@gmail.com</a>
               </p>
               <p>
                 <i class="fas fa-phone text-green-500 mr-2"></i>
-                <a href="tel:+1234567890" class="hover:underline">+123-456-7890</a>
+                <a href="7207090087" class="hover:underline">7207090087</a>
               </p>
             </div>
           </div>
@@ -221,7 +221,7 @@ nav a:hover {
               </p>
               <p>
                 <i class="fas fa-envelope text-red-500 mr-2"></i>
-                <a href="kadambalamahesh3@gmail.com" class="hover:underline">kadambalamahesh3@gmail.com</a>
+               <a href="mailto:kadambalamahesh3@gmail.com" class="hover:underline">kadambalamahesh3@gmail.com</a>
               </p>
               <p>
                 <i class="fas fa-phone text-green-500 mr-2"></i>
@@ -247,7 +247,7 @@ nav a:hover {
               </p>
               <p>
                 <i class="fas fa-envelope text-red-500 mr-2"></i>
-                <a href="dssyaswant@gmail.com" class="hover:underline">dssyaswant@gmail.com</a>
+               <a href="mailto:dssyaswant@gmail.com" class="hover:underline">dssyaswant@gmail.com</a>
               </p>
               <p>
                 <i class="fas fa-phone text-green-500 mr-2"></i>
